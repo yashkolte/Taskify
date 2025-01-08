@@ -1,0 +1,23 @@
+#mainbox{
+    width: 40vw;
+}   
+label{
+    font-weight: 500;
+}
+body{
+    background: linear-gradient(270deg, #E19898 0%, #A2678A 35%, #4D3C77 100%);
+}
+@media screen and (max-width: 600px) {
+    #mainbox{
+        width: 80vw;
+    } 
+    #heading{
+        text-align: center;
+    }
+    #allcards{
+        width: 90vw;
+        justify-content: center;
+        margin-bottom: 10px;
+    }
+
+  }
