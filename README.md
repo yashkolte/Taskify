@@ -63,4 +63,4 @@ Taskify/
 
 ## License
 
-This project is licensed under the MIT License. Feel free to use and modify it as you like.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
